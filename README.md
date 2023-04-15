@@ -1,5 +1,5 @@
 # Computer Science Fundamental
-## OOPs Questions
+## OOPs Concepts
 - Pillars of OOPs
 - Difference between class and object
 - Abstract class
@@ -10,7 +10,7 @@
 - Access modifiers
 - Static - variables, Functions, Objects
 
-## Operating System Questions
+## Operating System Concepts
 
 - Process vs Thread
 - Deadlock and its prevention methods
@@ -24,7 +24,7 @@
 - Kernel
 - Context Switching
 
-## DBMS Questions
+## DBMS Concepts
 
 - DBMS vs RDBMS
 - Normalization (everything about it) and Denormalization
@@ -37,7 +37,7 @@
 - ACID properties
 - Triggers and Procedures
 
-## Computer Network Questions
+## Computer Network Concepts
 
 - TCP vs UDP
 - ipv4 vs ipv6
